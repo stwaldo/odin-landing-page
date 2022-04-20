@@ -1,0 +1,19 @@
+.hero {
+  color: #f9faf8;
+}
+
+.header {
+}
+
+.footer {
+}
+
+.hero,
+.footer {
+  background-color: #1f2937;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
